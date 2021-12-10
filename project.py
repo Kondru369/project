@@ -101,6 +101,10 @@ model.add(Dropout(0.5))
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
+
+
+
+##Project Link : https://www.kaggle.com/trivenikondru/project/
 # %% [code] {"execution":{"iopub.status.busy":"2021-12-10T08:30:56.207226Z","iopub.execute_input":"2021-12-10T08:30:56.207720Z","iopub.status.idle":"2021-12-10T08:30:56.216466Z","shell.execute_reply.started":"2021-12-10T08:30:56.207688Z","shell.execute_reply":"2021-12-10T08:30:56.215678Z"}}
 model.layers
 
